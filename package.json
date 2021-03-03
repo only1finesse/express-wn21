@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "description": "A hello world app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/only1finesse/express-wn21.git"
+  },
+  "author": "Stan Omotuyole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/only1finesse/express-wn21/issues"
+  },
+  "homepage": "https://github.com/only1finesse/express-wn21#readme"
+}
